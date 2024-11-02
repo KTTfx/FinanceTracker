@@ -12,7 +12,7 @@ export default function Header({ activeTab, setActiveTab }: HeaderProps) {
   return (
     <header className="bg-white shadow-lg">
       <div className="container mx-auto px-4 py-6 max-w-6xl">
-        <h1 className="text-3xl font-bold text-blue-900 mb-6">
+        <h1 className="text-3xl font-bold text-blue-900 mb-6 text-center">
           Nsroma Investment Advisor & Tracker
         </h1>
         
