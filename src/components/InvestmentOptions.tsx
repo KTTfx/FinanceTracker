@@ -16,13 +16,13 @@ const investmentOptions = [
     icon: Coins,
     link: 'https://app.cedimanager.com/',
     color: 'from-green-500 to-green-600',
-    image: 'https://unsplash.com/photos/turned-on-macbook-pro-DfjJMVhwH_8',
+    image: 'https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?auto=format&fit=crop&q=80&w=1000',
   },
   {
     title: 'Real Estate',
     description: 'Property investments and REITs',
     icon: Building2,
-    link: 'https://www.investor.gov/introduction-investing/investing-basics/investment-products/real-estate-investment-trusts-reits',
+    link: 'https://app.trading212.com/',
     color: 'from-purple-500 to-purple-600',
     image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=1000',
   },
@@ -32,7 +32,7 @@ const investmentOptions = [
     icon: PiggyBank,
     link: 'https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-funds-etfs',
     color: 'from-orange-500 to-orange-600',
-    image: 'https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?auto=format&fit=crop&q=80&w=1000',
+    image: 'https://images.unsplash.com/photo-1563986768711-b3bde3dc821e?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
     title: 'Cryptocurrency',
@@ -52,8 +52,7 @@ export default function InvestmentOptions() {
           Explore Investment Options
         </h2>
         <p className="text-gray-600">
-          Browse popular investment options. Click on each to learn more and be redirected to trusted resources.
-        </p>
+          Browse popular investment options. Click to visit trusted investment providers.
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
