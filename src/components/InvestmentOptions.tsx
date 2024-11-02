@@ -16,7 +16,7 @@ const investmentOptions = [
     icon: Coins,
     link: 'https://www.treasurydirect.gov/marketable-securities/treasury-bonds/',
     color: 'from-green-500 to-green-600',
-    image: 'https://unsplash.com/photos/candlestick-chart-graphs-and-gold-bars-buying-and-selling-gold-bullion-upward-arrow-graphs-gold-market-growth-and-investment-3d-render-illustration-8ORq3F5dw2s',
+    image: 'https://unsplash.com/photos/turned-on-monitoring-screen-qwtCeJ5cLYs',
   },
   {
     title: 'Real Estate',
