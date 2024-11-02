@@ -14,6 +14,7 @@ const categories = [
   'Real Estate',
   'Cryptocurrency',
   'Mutual Funds/ETFs',
+  'T-Bill',
 ];
 
 const STORAGE_KEY = 'investment-tracker-data';
@@ -85,7 +86,7 @@ export default function InvestmentTracker() {
     <div className="space-y-8">
       <div className="text-center max-w-3xl mx-auto">
         <h2 className="text-2xl font-bold text-gray-900 mb-4">
-          Track Your Investments
+          Track My Investments
         </h2>
         <p className="text-gray-600">
           Record and view your investments in each category below. This tracker doesn't hold funds but helps you manage your records.
