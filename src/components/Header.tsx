@@ -16,7 +16,7 @@ export default function Header({ activeTab, setActiveTab }: HeaderProps) {
           Nsroma Investment Advisor & Tracker
         </h1>
         
-        <nav className="flex space-x-2">
+        <nav className="flex justify-center space-x-4">
           {[
             { id: 'options', label: 'Investment Options', icon: LineChart },
             { id: 'tracker', label: 'Investment Tracker', icon: BarChart3 },
