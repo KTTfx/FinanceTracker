@@ -16,7 +16,7 @@ const investmentOptions = [
     icon: Coins,
     link: 'https://www.treasurydirect.gov/marketable-securities/treasury-bonds/',
     color: 'from-green-500 to-green-600',
-    image: 'https://www.istockphoto.com/photo/percentage-sign-on-top-of-coin-stacks-before-blue-financial-graph-gm1503371245-523088263?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Finvestment&utm_medium=affiliate&utm_source=unsplash&utm_term=investment%3A%3Aaffiliate-collections%3Aa',
+    image: 'https://unsplash.com/photos/candlestick-chart-graphs-and-gold-bars-buying-and-selling-gold-bullion-upward-arrow-graphs-gold-market-growth-and-investment-3d-render-illustration-8ORq3F5dw2s',
   },
   {
     title: 'Real Estate',
