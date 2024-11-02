@@ -16,7 +16,7 @@ const investmentOptions = [
     icon: Coins,
     link: 'https://www.treasurydirect.gov/marketable-securities/treasury-bonds/',
     color: 'from-green-500 to-green-600',
-    image: 'https://unsplash.com/photos/turned-on-monitoring-screen-qwtCeJ5cLYs',
+    image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=1000',
   },
   {
     title: 'Real Estate',
