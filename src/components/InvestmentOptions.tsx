@@ -87,7 +87,7 @@ export default function InvestmentOptions() {
                   {option.description}
                 </p>
                 <div className="mt-4 inline-flex items-center text-sm font-medium text-white">
-                  Learn more
+                  Login
                   <svg
                     className="ml-1 h-4 w-4"
                     fill="none"
