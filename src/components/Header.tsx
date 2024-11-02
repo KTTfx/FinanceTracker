@@ -13,7 +13,7 @@ export default function Header({ activeTab, setActiveTab }: HeaderProps) {
     <header className="bg-white shadow-lg">
       <div className="container mx-auto px-4 py-6 max-w-6xl">
         <h1 className="text-3xl font-bold text-blue-900 mb-6">
-          Nsroma Investment Advisor & Tracker
+           Investment Advisor & Tracker
         </h1>
         
         <nav className="flex space-x-2">
