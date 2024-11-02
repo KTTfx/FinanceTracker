@@ -49,10 +49,11 @@ export default function InvestmentOptions() {
     <div className="space-y-8">
       <div className="text-center max-w-3xl mx-auto">
         <h2 className="text-2xl font-bold text-gray-900 mb-4">
-          Explore Investment Options
+          Explore My Investments
         </h2>
         <p className="text-gray-600">
-          Browse popular investment options. Click to visit trusted investment providers.
+          Browse popular investment options. Click on each to visit broker.
+        </p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
